@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="vr.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRTK\SDK\Fallback\SDK_FallbackBoundaries.cs">
+    <Files>
+      <File FileName="Assets\VRTK\SDK\Fallback\SDK_FallbackBoundaries.cs" Line="72" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
